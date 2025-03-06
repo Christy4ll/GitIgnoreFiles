@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\IgnoringApiKeys\bin\Debug\net8.0\IgnoringApiKeys.exe
+C:\Users\hp\Desktop\IgnoringApiKeys\bin\Debug\net8.0\IgnoringApiKeys.deps.json
+C:\Users\hp\Desktop\IgnoringApiKeys\bin\Debug\net8.0\IgnoringApiKeys.runtimeconfig.json
+C:\Users\hp\Desktop\IgnoringApiKeys\bin\Debug\net8.0\IgnoringApiKeys.dll
+C:\Users\hp\Desktop\IgnoringApiKeys\bin\Debug\net8.0\IgnoringApiKeys.pdb
+C:\Users\hp\Desktop\IgnoringApiKeys\obj\Debug\net8.0\IgnoringApiKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\IgnoringApiKeys\obj\Debug\net8.0\IgnoringApiKeys.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\IgnoringApiKeys\obj\Debug\net8.0\IgnoringApiKeys.AssemblyInfo.cs
+C:\Users\hp\Desktop\IgnoringApiKeys\obj\Debug\net8.0\IgnoringApiKeys.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\IgnoringApiKeys\obj\Debug\net8.0\IgnoringApiKeys.dll
+C:\Users\hp\Desktop\IgnoringApiKeys\obj\Debug\net8.0\refint\IgnoringApiKeys.dll
+C:\Users\hp\Desktop\IgnoringApiKeys\obj\Debug\net8.0\IgnoringApiKeys.pdb
+C:\Users\hp\Desktop\IgnoringApiKeys\obj\Debug\net8.0\IgnoringApiKeys.genruntimeconfig.cache
+C:\Users\hp\Desktop\IgnoringApiKeys\obj\Debug\net8.0\ref\IgnoringApiKeys.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IgnoringApiKeys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa4085f10218f34a1c14de2c2ee8821f8c47105a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d30de42f449d7be42068d614a8a0d89205a6b91c")]
 [assembly: System.Reflection.AssemblyProductAttribute("IgnoringApiKeys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IgnoringApiKeys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
